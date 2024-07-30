@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.469b5f22.css",
-    "main.js": "/portfolio/static/js/main.58900c93.js",
+    "main.js": "/portfolio/static/js/main.8947b350.js",
     "static/media/wordle_game.jpg": "/portfolio/static/media/wordle_game.124bebb3a4ebfdb22aee.jpg",
     "static/media/todo_list.jpg": "/portfolio/static/media/todo_list.454cfb31302335a6c06b.jpg",
     "index.html": "/portfolio/index.html",
     "main.469b5f22.css.map": "/portfolio/static/css/main.469b5f22.css.map",
-    "main.58900c93.js.map": "/portfolio/static/js/main.58900c93.js.map"
+    "main.8947b350.js.map": "/portfolio/static/js/main.8947b350.js.map"
   },
   "entrypoints": [
     "static/css/main.469b5f22.css",
-    "static/js/main.58900c93.js"
+    "static/js/main.8947b350.js"
   ]
 }
