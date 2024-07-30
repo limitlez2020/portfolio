@@ -4,14 +4,14 @@ import {ArrowLongRightIcon} from '@heroicons/react/24/solid'
 const Navbar = () => {
   return (
     <nav className="bg-gray-dark pb-5 pt-10 border-gray-lightest border-b-1
-                      w-full max-w-6xl mx-auto flex">
-      <div className="container mx-auto flex justify-between items-center">
+                      w-full mx-auto flex max-w-[1120px]">
+      <div className="flex justify-between items-center w-full px-4 max-w-6xl mx-auto">
         {/* Top Left: */}
         <div className='flex gap-x-3 items-center'>
           {/* Add a logo: */}
           <img
-            src="/logo.jpg"
-            alt="Logo"
+            src="./logo.jpg"
+            alt="Fortune David Akinremi"
             className="h-10 w-10 rounded-full border-1 border-gray-lightest"
           />
             
