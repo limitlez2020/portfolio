@@ -40,7 +40,7 @@ const Body = () => {
           </div>
  
           <img alt=''
-              src="/map.jpg" 
+              src="./map.jpg" 
               className="h-full w-full transition-all ease-in-out object-cover
                          duration-1000 transform hover:scale-150"
           >

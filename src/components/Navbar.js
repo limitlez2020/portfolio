@@ -29,7 +29,7 @@ const Navbar = () => {
           <button className='text-off-white text-xs items-center justify-between
                                px-5 py-1 border-1 border-neutral-600 rounded-full
                                hover:border-neutral-400'>
-            <a href="/David_Fortune_Akinremi_Resume.pdf" target="_blank" rel="noreferrer">
+            <a href="./David_Fortune_Akinremi_Resume.pdf" target="_blank" rel="noreferrer">
               Check my Resume
 
               <ArrowLongRightIcon
