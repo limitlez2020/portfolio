@@ -22,6 +22,7 @@ This personal portfolio website was developed using React.js and styled with Tai
 ## Usage
 
 Link:  https://limitlez2020.github.io/portfolio/
+
 Explore my portfolio to view detailed information about my skills, projects, and professional journey. The bento-grid layout provides a unique and organized way to navigate through the content.
 
 
